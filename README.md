@@ -8,4 +8,4 @@
 
 </div>
 
-Archive of public presentations shared with the DFIR community.
+Presentations shared with the DFIR community.
