@@ -8,10 +8,11 @@
 
 </div>
 
-Presentations shared with the DFIR community.
+Presentations shared with the DFIR community. 
+Video links provided for those available.
 
 - HTCIA Tech Tuesday 2022
 - Techno Security 2022
-- Magnet User Summit 2022
+- Magnet User Summit 2022; video: https://youtu.be/aVDYQvCcoFU
 - HTCIA International Conference 2021
-- Magnet Enterprise Pulse 2021
+- Magnet Enterprise Pulse 2021; video: https://youtu.be/HpYxciMqEzM
