@@ -17,5 +17,5 @@ Video links provided for those available.
 - [Magnet User Summit 2022 - video](https://youtu.be/aVDYQvCcoFU)
 - [HTCIA International Conference 2021 - slides](HTCIA_Powershell.pdf)
 - [HTCIA International Conference 2021 - video (HTCIA members)](https://train.htcia.org/products/powershell-tools-for-ir-forensics-collection)
-- [Magnet Enterprise Pulse 2021 - slides](https://github.com/dwmetz/Presentations/blob/a7436b50dd3037ad82336447f93c57b75e1bd959/PowerShell%20Tools%20for%20IR%20Forensics%20Collection.pdf
+- [Magnet Enterprise Pulse 2021 - slides](https://github.com/dwmetz/Presentations/blob/a7436b50dd3037ad82336447f93c57b75e1bd959/PowerShell%20Tools%20for%20IR%20Forensics%20Collection.pdf)
 - [Magnet Enterprise Pulse 2021 - video](https://youtu.be/HpYxciMqEzM)
