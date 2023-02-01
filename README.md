@@ -8,7 +8,7 @@
 
 </div>
 
-Presentations shared with the DFIR community.
+Archive of presentations shared with the DFIR community.
 >
 🎬 Video links provided for those available.
 
