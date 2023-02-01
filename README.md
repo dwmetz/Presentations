@@ -8,8 +8,8 @@
 
 </div>
 
-💻 Presentations shared with the DFIR community. 
-
+Presentations shared with the DFIR community. 💻
+>
 🎬 Video links provided for those available.
 
 - [HTCIA Tech Tuesday 2022 - slides](https://github.com/dwmetz/Presentations/blob/main/HTCIA_TechTuesday.pdf)
