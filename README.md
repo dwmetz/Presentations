@@ -2,7 +2,7 @@
  <img style="padding:0;vertical-align:bottom;" height="158" width="311" src="BSF.png"/>
  <p>
   <h1>
-   :octocat: Presentations
+   Presentations
   </h1>
  </p>
 
