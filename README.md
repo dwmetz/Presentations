@@ -8,8 +8,9 @@
 
 </div>
 
-Presentations shared with the DFIR community. 
-Video links provided for those available.
+💻 Presentations shared with the DFIR community. 
+
+🎬 Video links provided for those available.
 
 - [HTCIA Tech Tuesday 2022 - slides](https://github.com/dwmetz/Presentations/blob/main/HTCIA_TechTuesday.pdf)
 - [Techno Security 2022 - slides](Techno_2022_FreeTools4DFIR.pdf)
