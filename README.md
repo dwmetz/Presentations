@@ -11,7 +11,7 @@
 Presentations shared with the DFIR community. 
 Video links provided for those available.
 
-- HTCIA Tech Tuesday 2022
+- [HTCIA Tech Tuesday 2022] (https://github.com/dwmetz/Presentations/blob/main/HTCIA_TechTuesday.pdf)
 - Techno Security 2022
 - Magnet User Summit 2022; video: https://youtu.be/aVDYQvCcoFU
 - HTCIA International Conference 2021 video: [HTCIA members] https://train.htcia.org/products/powershell-tools-for-ir-forensics-collection
