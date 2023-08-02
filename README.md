@@ -12,6 +12,7 @@ Archive of presentations shared with the DFIR community.
 >
 🎬 Video links provided for those available.
 
+- [Magnet Webinar August 2, 2023 - Building a ‘Windows to Go’ Drive to Support Live and Offline Collections](Magnet2Go.pdf)
 - [Magnet User Summit 2023 - Magnet2Go: Building a ‘Windows to Go’ Drive to Support Offline Collections](MUS23_Magnet2Go.pdf)
 - [HTCIA Delaware Valley Philly - Time Is Not On Our Side, Triage in Incident Response Investigations](HTCIA-Triage.pdf)
 - [Magnet Virtual Summit 2023 - Free Tools to Bolster Your IR Toolkit - video](https://www.magnetforensics.com/resources/free-triage-tools-to-bolster-your-ir-toolkit/)
