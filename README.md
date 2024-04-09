@@ -12,6 +12,7 @@ Archive of presentations shared with the DFIR community.
 >
 🎬 Video links provided for those available.
 
+- [Magnet User Summit 2024 - Honey, I Ransomwared the Kids] - Scheduled 15 April 2024
 - [HTCIA New England Chapter, March 27, 2024 - MAGNET Response for Digital First Responsers](HTCIA_NE.pdf)
 - [Magnet Virtual Summit 2024 - Investigating Malware with Free Tools and MAGNET AXIOM Cyber](Investigating_Malware_With_Free_Tools_and_Magnet_AXIOM_Cyber.pdf)
 - [Responding at Scale with Magnet RESPONSE - September 27, 2023](RespondingAtScaleWithMagnetRESPONSE.pdf)
