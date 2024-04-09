@@ -21,7 +21,7 @@ Archive of presentations shared with the DFIR community.
 - [Magnet Virtual Summit 2023 - Free Tools to Bolster Your IR Toolkit - video](https://www.magnetforensics.com/resources/free-triage-tools-to-bolster-your-ir-toolkit/)
 - [HTCIA Tech Tuesday 2022 - slides](HTCIA_TechTuesday.pdf)
 - [Techno Security 2022 - slides](Techno_2022_FreeTools4DFIR.pdf)
-- [Magnet User Summit 2022 - slides](MUS-2022_FreeTools.pdf)
+- [Magnet User Summit 2022 - slides](MUS_2022_FreeTools.pdf)
 - [Magnet User Summit 2022 - video](https://youtu.be/aVDYQvCcoFU)
 - [HTCIA International Conference 2021 - slides](HTCIA_Powershell.pdf)
 - [HTCIA International Conference 2021 - video (HTCIA members)](https://train.htcia.org/products/powershell-tools-for-ir-forensics-collection)
