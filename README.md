@@ -14,7 +14,8 @@ Archive of presentations shared with the DFIR community.
 
 - [Magnet User Summit, April 15, 2024 - Honey, I Ransomwared the Kids](MUS2024_HoneyRansom.pdf)
 - [HTCIA New England Chapter, March 27, 2024 - MAGNET Response for Digital First Responsers](HTCIA_NE.pdf)
-- [Magnet Virtual Summit 2024 - Investigating Malware with Free Tools and MAGNET AXIOM Cyber](MVS2024_InvestigatingMalware.pdf)
+- [Magnet Virtual Summit 2024 - Investigating Malware with Free Tools and MAGNET AXIOM Cyber - slides](MVS2024_InvestigatingMalware.pdf)
+- [Magnet Virtual Summit 2024 - Investigating Malware with Free Tools and MAGNET AXIOM Cyber - video](https://www.magnetforensics.com/resources/investigating-malware-with-free-tools-and-magnet-axiom-cyber/)
 - [Responding at Scale with Magnet RESPONSE - September 27, 2023](RespondingAtScaleWithMagnetRESPONSE.pdf)
 - [Magnet Webinar August 2, 2023 - Building a ‘Windows to Go’ Drive to Support Live and Offline Collections](Magnet2Go.pdf)
 - [Magnet User Summit 2023 - Magnet2Go: Building a ‘Windows to Go’ Drive to Support Offline Collections](MUS2023_Magnet2Go.pdf)
