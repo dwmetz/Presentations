@@ -12,6 +12,7 @@ Archive of presentations shared with the DFIR community.
 >
 🎬 Video links provided for those available.
 
+- [Triage & Beyond: How Magnet Forensics Powers Incident Response](Triage_and_Beyond.pdf)
 - [Magnet User Summit, April 15, 2024 - Honey, I Ransomwared the Kids](MUS2024_HoneyRansom.pdf)
 - [HTCIA New England Chapter, March 27, 2024 - MAGNET Response for Digital First Responsers](HTCIA_NE.pdf)
 - [Magnet Virtual Summit 2024 - Investigating Malware with Free Tools and MAGNET AXIOM Cyber - slides](MVS2024_InvestigatingMalware.pdf)
