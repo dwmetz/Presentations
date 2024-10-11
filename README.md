@@ -1,13 +1,10 @@
 <div align="center">
  <img style="padding:0;vertical-align:bottom;" height="158" width="311" src="/_images/BSF.png"/>
-
-
+<br/>
+<br/>
+My presentations shared with the DFIR community.
 </div>
 <br/>
-<br/>
-
-My presentations shared with the DFIR community.
->
 🎬 Video links provided for those available.
 
 - [Triage & Beyond: How Magnet Forensics Powers Incident Response](/pdfs/Triage_and_Beyond.pdf)
