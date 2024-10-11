@@ -4,7 +4,7 @@
 
 </div>
 
-Archive of pdfs shared with the DFIR community.
+My presentations shared with the DFIR community.
 >
 🎬 Video links provided for those available.
 
