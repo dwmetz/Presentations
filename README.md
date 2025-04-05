@@ -6,14 +6,12 @@
 ## Presentations:
 
 </div>
-
----
-
 <br/>
 
 >- 🎬 Video links provided for those available.
 
 <br/>
+
 ---
 
 - [Magnet Virtual Summit 2025 - Zen & the Art of Digital Forensics] coming soon
