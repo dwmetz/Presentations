@@ -14,7 +14,7 @@
 
 - [Magnet Virtual Summit 2025 - Zen & the Art of Digital Forensics - slides] coming soon
 - [Magnet Virtual Summit 2025 - Zen & the Art of Digital Forensics - video](https://www.magnetforensics.com/resources/zen-and-the-art-of-digital-forensics)
-- [Magnet Virtual Summit 2025 - Unlocking DFIR: Free Resources for Efficient Triage and Acquisition - slides] coming soon
+- [Magnet Virtual Summit 2025 - Unlocking DFIR: Free Resources for Efficient Triage and Acquisition - slides](/pdfs/MVS25_FreeTools.pdf)
 - [Magnet Virtual Summit 2025 - Unlocking DFIR: Free Resources for Efficient Triage and Acquisition - video](https://www.magnetforensics.com/resources/unlocking-dfir-free-resources-for-efficient-triage-and-acquisition)
 - [Triage & Beyond: How Magnet Forensics Powers Incident Response](/pdfs/Triage_and_Beyond.pdf)
 - [Magnet User Summit, April 15, 2024 - Honey, I Ransomwared the Kids](/pdfs/MUS2024_HoneyRansom.pdf)
