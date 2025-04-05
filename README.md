@@ -4,10 +4,11 @@
 <br/>
 DFIR Presentations:
 </div>
+
 <br/>
 🎬 Video links provided for those available.
 <br/>
-
+---
 - [Magnet Virtual Summit 2025 - Zen & the Art of Digital Forensics] coming soon
 - [Magnet Virtual Summit 2025 - Unlocking DFIR: Free Resources for Efficient Triage and Acquisition] coming soon
 - [Triage & Beyond: How Magnet Forensics Powers Incident Response](/pdfs/Triage_and_Beyond.pdf)
