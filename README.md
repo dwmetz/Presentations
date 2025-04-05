@@ -12,7 +12,7 @@
 
 ---
 
-- [Magnet Virtual Summit 2025 - Zen & the Art of Digital Forensics - slides] coming soon
+- [Magnet Virtual Summit 2025 - Zen & the Art of Digital Forensics - slides](/pdfs/MVS25_Zen%20and%20the%20Art%20of%20Forensic%20Investigation.pdf)
 - [Magnet Virtual Summit 2025 - Zen & the Art of Digital Forensics - video](https://www.magnetforensics.com/resources/zen-and-the-art-of-digital-forensics)
 - [Magnet Virtual Summit 2025 - Unlocking DFIR: Free Resources for Efficient Triage and Acquisition - slides](/pdfs/MVS25_FreeTools.pdf)
 - [Magnet Virtual Summit 2025 - Unlocking DFIR: Free Resources for Efficient Triage and Acquisition - video](https://www.magnetforensics.com/resources/unlocking-dfir-free-resources-for-efficient-triage-and-acquisition)
