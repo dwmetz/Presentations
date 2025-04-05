@@ -6,10 +6,9 @@
 ## Presentations:
 
 </div>
-<br/>
 
-> 🎬 Video links provided for those available.
-<br/>
+
+🎬 Video links provided for those available.
 
 ---
 
