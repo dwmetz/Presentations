@@ -2,11 +2,13 @@
  <img style="padding:0;vertical-align:bottom;" height="158" width="311" src="/_images/BSF.png"/>
 <br/>
 <br/>
-DFIR Presentations:
+# Presentations:
 </div>
 
+---
+
 <br/>
-🎬 Video links provided for those available.
+>- 🎬 Video links provided for those available.
 <br/>
 
 ---
