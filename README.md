@@ -2,12 +2,14 @@
  <img style="padding:0;vertical-align:bottom;" height="158" width="311" src="/_images/BSF.png"/>
 <br/>
 <br/>
-My presentations shared with the DFIR community.
+DFIR Presentations:
 </div>
 <br/>
 🎬 Video links provided for those available.
 <br/>
 
+- [Magnet Virtual Summit 2025 - Zen & the Art of Digital Forensics] coming soon
+- [Magnet Virtual Summit 2025 - Unlocking DFIR: Free Resources for Efficient Triage and Acquisition] coming soon
 - [Triage & Beyond: How Magnet Forensics Powers Incident Response](/pdfs/Triage_and_Beyond.pdf)
 - [Magnet User Summit, April 15, 2024 - Honey, I Ransomwared the Kids](/pdfs/MUS2024_HoneyRansom.pdf)
 - [HTCIA New England Chapter, March 27, 2024 - MAGNET Response for Digital First Responsers](/pdfs/HTCIA_NE.pdf)
